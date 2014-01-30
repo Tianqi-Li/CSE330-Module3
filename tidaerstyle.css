@@ -1,0 +1,45 @@
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-top: dotted 2px;
+}
+
+.sign_in {
+background-color: #DCDCDC;
+float:right;
+}
+
+h1 {
+    font-size: medium;
+    font_weight: bold;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+body{
+	width: 760px; /* how wide to make your web page */
+	background-color: gray; /* what color to make the background */
+	margin: 0 auto;
+	padding: 0;
+}
+div.main{
+	background-color: #FFF;
+	margin: 0 auto;
+	padding: 10px;
+        float:center;
+}
+
+.float_left{
+    float:left;
+}
+
+.float_center{
+    float: center;
+}
+
